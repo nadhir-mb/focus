@@ -1,0 +1,14 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Packaged extension builds
+*.zip
+*.crx
+*.pem
+
+# Design notes for a separate project (nadhir.tech), not part of this repo
+DESIGN.MD
